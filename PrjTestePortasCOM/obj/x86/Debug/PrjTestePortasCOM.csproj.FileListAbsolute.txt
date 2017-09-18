@@ -1,0 +1,26 @@
+C:\Users\Ale\AppData\Local\Temporary Projects\PrjTestePortasCOM\bin\Debug\PrjTestePortasCOM.exe
+C:\Users\Ale\AppData\Local\Temporary Projects\PrjTestePortasCOM\bin\Debug\PrjTestePortasCOM.pdb
+C:\Users\Ale\AppData\Local\Temporary Projects\PrjTestePortasCOM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ale\AppData\Local\Temporary Projects\PrjTestePortasCOM\obj\x86\Debug\PrjTestePortasCOM.Form1.resources
+C:\Users\Ale\AppData\Local\Temporary Projects\PrjTestePortasCOM\obj\x86\Debug\PrjTestePortasCOM.Properties.Resources.resources
+C:\Users\Ale\AppData\Local\Temporary Projects\PrjTestePortasCOM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ale\AppData\Local\Temporary Projects\PrjTestePortasCOM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ale\AppData\Local\Temporary Projects\PrjTestePortasCOM\obj\x86\Debug\PrjTestePortasCOM.exe
+C:\Users\Ale\AppData\Local\Temporary Projects\PrjTestePortasCOM\obj\x86\Debug\PrjTestePortasCOM.pdb
+C:\Users\Ale\documents\visual studio 2010\Projects\PrjTestePortasCOM\PrjTestePortasCOM\obj\x86\Debug\PrjTestePortasCOM.exe
+C:\Users\Ale\documents\visual studio 2010\Projects\PrjTestePortasCOM\PrjTestePortasCOM\obj\x86\Debug\PrjTestePortasCOM.pdb
+C:\Users\Ale\documents\visual studio 2010\Projects\PrjTestePortasCOM\PrjTestePortasCOM\bin\Debug\PrjTestePortasCOM.exe
+C:\Users\Ale\documents\visual studio 2010\Projects\PrjTestePortasCOM\PrjTestePortasCOM\bin\Debug\PrjTestePortasCOM.pdb
+C:\Users\Ale\documents\visual studio 2010\Projects\PrjTestePortasCOM\PrjTestePortasCOM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ale\documents\visual studio 2010\Projects\PrjTestePortasCOM\PrjTestePortasCOM\obj\x86\Debug\PrjTestePortasCOM.Form1.resources
+C:\Users\Ale\documents\visual studio 2010\Projects\PrjTestePortasCOM\PrjTestePortasCOM\obj\x86\Debug\PrjTestePortasCOM.Properties.Resources.resources
+C:\Users\Ale\documents\visual studio 2010\Projects\PrjTestePortasCOM\PrjTestePortasCOM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ale\documents\visual studio 2010\Projects\PrjTestePortasCOM\PrjTestePortasCOM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rogerio\Documents\Projects C#\PrjTestePortasCOM\PrjTestePortasCOM\PrjTestePortasCOM\obj\x86\Debug\PrjTestePortasCOM.exe
+C:\Users\Rogerio\Documents\Projects C#\PrjTestePortasCOM\PrjTestePortasCOM\PrjTestePortasCOM\obj\x86\Debug\PrjTestePortasCOM.pdb
+C:\Users\Rogerio\Documents\Projects C#\PrjTestePortasCOM\PrjTestePortasCOM\PrjTestePortasCOM\bin\Debug\PrjTestePortasCOM.exe
+C:\Users\Rogerio\Documents\Projects C#\PrjTestePortasCOM\PrjTestePortasCOM\PrjTestePortasCOM\bin\Debug\PrjTestePortasCOM.pdb
+C:\Users\Rogerio\Documents\Projects C#\PrjTestePortasCOM\PrjTestePortasCOM\PrjTestePortasCOM\obj\x86\Debug\PrjTestePortasCOM.Form1.resources
+C:\Users\Rogerio\Documents\Projects C#\PrjTestePortasCOM\PrjTestePortasCOM\PrjTestePortasCOM\obj\x86\Debug\PrjTestePortasCOM.Properties.Resources.resources
+C:\Users\Rogerio\Documents\Projects C#\PrjTestePortasCOM\PrjTestePortasCOM\PrjTestePortasCOM\obj\x86\Debug\PrjTestePortasCOM.csproj.GenerateResource.Cache
+C:\Users\Rogerio\Documents\Projects C#\PrjTestePortasCOM\PrjTestePortasCOM\PrjTestePortasCOM\obj\x86\Debug\PrjTestePortasCOM.csprojResolveAssemblyReference.cache
